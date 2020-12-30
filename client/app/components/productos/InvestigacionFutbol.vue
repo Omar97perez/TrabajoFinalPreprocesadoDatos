@@ -95,21 +95,18 @@
         </div>
         <div class="mt-5" >
           <p style="font-size:20px;">
-            Este proyecto consiste en un estudio sobre cómo podremos predecir la evolución de un equipo de fútbol en su liga. Para poder realizar esta acción, es necesario disponer de algunos datos de la liga actual (resultados de los últimos partidos,..).
-          </p> 
+            Este proyecto consiste en un estudio sobre cómo podremos predecir la posición final de un equipo de fútbol en su liga, en base a los resultados de los partidos disputados. Para poder realizar esta acción, es necesario disponer de datos históricos sobre los equipos. No obstante, como iremos viendo, tendremos que realizar diferentes técnicas para poder conseguir nuestro Dataset final, ya que, la estructura que se requiere no se ha encontrado exactamente como se pretendía.          </p> 
           <p style="font-size:20px;">
-            En este proyecto, también podremos ver como iremos probando con diferentes algoritmos de machine learning para intentar encontrar el algoritmo perfecto para este tipo de problema. De igual forma, estos se irán subiendo al proyecto realizado en la asignatura denominada “Computación en la Nube” en el Framework denominado “GraphCloud”.
-          </p>
+            Para el desarrollo de este proyecto, se ha realizado una aplicación web con tal de mejorar la experiencia del usuario al ejecutar nuestra investigación. De igual forma, veremos diferentes formas de tratar los datos y una posterior ejecución de diferentes algoritmos de Machine Learning. En la mayoría de los casos se ha usado Python junto con “Pandas”, no obstante, en algunas secciones del preprocesado de datos se han utilizado otras técnicas con vistas de ver algunas herramientas usadas en el mercado.          </p>
           <p style="font-size:20px;">
-            Por último, cabe resaltar que se intentará sacar unas conclusiones finales sobre el estudio para que nos sirva para poder aplicarlas a un equipo de fútbol en concreto (si se desease).
-          </p>
+            Por último, cabe resaltar que se sacarán unas conclusiones sobre el estudio desarrollado. Esto nos permitirá poder aplicarlas a un equipo de fútbol en concreto e, intentar predecir su posición final en la liga. De igual forma, se comentarán algunas cuestiones de cara a mejorar para que nuestro proyecto nos permita poder realizar una mejor predicción y, así poder tener una mayor tasa de acierto.          </p>
         </div>
 
           <div class="mt-5 font-weight-bold" align="center">
             <h1>Algoritmos de predicción para la investigación.</h1>
           </div> 
           <div class="mt-5" >
-            <p style="font-size:20px;">Para este apartado, se ha desarrollado cuatro algoritmos de regresión para predecir un dato expresado con anterioridad. De igual forma, se requiere un conjunto de datos para realizar dicha acción. A su vez, cabe resaltar, que se ha seguido el patrón de estratégia visto en el apartado 2.1. Los algoritmos implementados han sido:</p> 
+            <p style="font-size:20px;">Para este apartado, se han desarrollado cuatro algoritmos de regresión para predecir un dato expresado con anterioridad. De igual forma, se requiere un conjunto de datos para realizar dicha acción. A su vez, cabe resaltar, que se ha seguido el patrón de estratégia. Los algoritmos implementados han sido:</p> 
             <ul style="font-size:20px;">
               <li>Regresión Lineal.</li>
               <li>Árbol de decisión.</li>
