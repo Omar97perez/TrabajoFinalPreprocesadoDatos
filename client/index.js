@@ -21,8 +21,8 @@ mongoose.connect('mongodb://omar:antonio1997@cluster0-shard-00-00-svm5b.mongodb.
 
 //Ajustes
 
-    //Si el servidor tiene puerto lo coge sino pone el puerto 4100
-    app.set('port', process.env.PORT || 4100  );
+  //Si el servidor tiene puerto lo coge sino pone el puerto 4100
+  app.set('port', process.env.PORT || 4100  );
 
   //Middlewares
   //Sirve para imprimir las peticiones Get de la consola
